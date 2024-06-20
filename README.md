@@ -20,5 +20,5 @@ A full-stack application using Node.js, Express, and React for managing and disp
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/lazyp4nd4/feedback-management-system.git
+   git clone https://github.com/northstar-0310/Feedback-Management-System.git
    cd feedback-management-system/feedback-system-backend
